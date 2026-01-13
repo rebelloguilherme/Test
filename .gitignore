@@ -1,0 +1,24 @@
+# Build output
+bin/
+obj/
+
+# NuGet
+*.nupkg
+packages/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Rider
+.idea/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# User secrets
+secrets.json
